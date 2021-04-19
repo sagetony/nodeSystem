@@ -1,0 +1,17 @@
+{
+  "name": "zuri",
+  "version": "1.0.0",
+  "description": "json assignment",
+  "main": "index.js",
+  "scripts": {
+    "server": "node server"
+  },
+  "keywords": [
+    "json"
+  ],
+  "author": "tony",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
